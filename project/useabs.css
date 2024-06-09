@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'GT America Standard', sans-serif;
+}
+.nav{
+    height: 90px;
+    width: 96.1vw;
+    background-color: black;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-left: 60px;
+    font-size: 17px;
+    padding-bottom: 5px;
+}
+.left{
+    display: flex;
+    margin: auto;
+    margin-left: 40px;
+}
+.left2{
+   font-size: 30px;
+   margin-top:14px ;
+   margin-left: 8px;
+}
+.submit{
+  background-color: black;
+  border-radius: 30px;
+  color: white;
+  padding-left:30px;
+  padding-right:30px;
+  font-size: 30px;
+  padding-top: 10px;
+  margin-bottom: 5px;
+}
+button{
+    color: white;
+    background-color: black;
+   padding: 16px 22px;
+    font-size: 24px;
+    border-radius: 20px;
+    border: 2px solid white;
+    display: flex;
+    align-items: center;
+    height: 55px;
+}
+.sign{
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+}
+.left1 > img{
+    height: 53px;
+}
+.right{
+    margin-right: 10px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    /* column-gap: 3px; */
+    margin-right: 90px;
+}
+.right {
+    margin-bottom: 2px;
+    font-weight: 400;
+    font-size: 28px;
+}
+.help{
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:#DADBF1;
+    height: 53vh;
+    width: 99vw;
+}
+.help2 > button{
+height: 35px;
+width: 800px;
+}
+input{
+    padding: 1rem;
+    width: 210px;
+    font-size: large;
+    border-radius: 10px;
+    height: 20px;
+}
+a{
+    text-decoration: none;
+}
